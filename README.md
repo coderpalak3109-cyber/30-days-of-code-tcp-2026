@@ -1,1 +1,5 @@
-# 30-days-of-code-tcp-2026
+Name - Palak Soni 
+<br> 
+Roll number - 25115070 
+<br> 
+Branch - Computer Science Engineering
