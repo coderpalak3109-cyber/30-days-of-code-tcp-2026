@@ -7,7 +7,7 @@ Branch - Computer Science Engineering
 All my question solutions are inside the folder "30-days-of-code-tcp-2026" which is present inside the current folder .
 
 # Day 1
-Date :  1st January 2025
+Date :  1st January 2026
 
 <br>
 <img width="1880" height="936" alt="image" src="https://github.com/user-attachments/assets/6f49034b-8f63-4bc0-928d-28a6201c8e8f" />
