@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tables and Forms</title>
+</head>
+<h1>Tables and Forms</h1>
+<section>
+ <h2><u>Schedule of the event </u></h2>   
+<table border="4"  width = "100%" >
+
+<thead bgcolor = "orange">
+<tr>
+   <th>S.No</th> 
+    <th>
+Time    
+</th>
+
+<th>Activity</th>
+<th>Venue</th>
+</tr>
+</thead>
+
+<tbody bgcolor = "pink">
+    <tr>
+        <td>1.</td>
+<td>9:30-10:40</td>
+<td>Inaugaration of event </td>
+<td>Hira Hall </td>
+    </tr> 
+
+    <tr>
+        <td>2.</td>
+    <td>10:40-10:50</td>
+    <td>Welcome Song</td>
+    <td>FN-4</td>
+    
+    </tr>
+
+<tr>
+<td>3.</td>
+<td>10:55-11:10</td>
+<td>Dance by Nrityam</td>
+<td>Architecture Hall</td>
+
+</tr>
+
+
+<tr>
+<td>4.</td>
+<td>11:10-11:50</td>
+<td>Speech by Director</td>
+<td>Architecture Hall</td>
+
+</tr>
+
+
+<tr>
+<td>5.</td>
+<td>11:50-12:15</td>
+<td>Nukkad Natak by I-Cell</td>
+<td>APJ Abdul Kalaam Hall</td>
+
+</tr>
+
+<tr>
+<td>6.</td>
+<td>12:15-12:20</td>
+<td>Refreshment Distribution</td>
+<td>B-6</td>
+
+</tr>
+
+
+</tbody>
+
+</table>
+</section>
+
+
+
+<section>
+<h2><u>Registration form</u></h2>
+
+<p>This is the registration form for the event. Kindly fill the form for securing your place in the event. </p>
+ <form action="Submit.html" method="post">
+<label for="Name "> Name :</label>
+ <input type="text" id = "Name" placeholder ="Please enter your name">
+ <br>
+<br>
+<label for="Candidate email"> Email :</label>
+ <input type="email" id = "Candidate email" placeholder ="Please enter your email address ">
+<br> <br>
+<label for="Candidate Password"> Password :</label>
+ <input type="Password" id = "Candidate Password" placeholder ="Please enter your Password ">
+
+<br>
+<br>
+<label for="Contact number "> Number of tickets :</label>
+ <input type="number" id = "Contact Number"placeholder = "Please enter number of tickets ">
+
+<br>
+<br>
+
+<label for="start">Select date of payment :</label>
+<input 
+  type="date" 
+  id="start" 
+  name="trip-start"
+  placeholder="YYYY-MM-DD"
+  pattern="\d{4}-\d{2}-\d{2}"
+  title="Please enter date in YYYY-MM-DD format">
+
+<br>
+<br>
+
+
+
+
+
+
+<fieldset>
+<legend><b>Select type of ticket</b></legend>
+<br>
+<label for="VIP">VIP Pass</label>
+<input type="radio" name="Type of ticket" id="VIP" value="VIP" checked> 
+<br>
+<label for="Student">Student discount</label>
+<input type="radio" name="Type of ticket" id="Student" value="Student" > 
+<br>
+<label for="Faculty">Faculty discount</label>
+<input type="radio" name="Type of ticket" id="Faculty" value="Faculty" > 
+<br>
+<label for="Participant">Participant</label>
+<input type="radio" name="Type of ticket" id="Participant" value="Participant" > 
+</fieldset>
+<br>
+<br>
+<fieldset>
+    <legend><b>Select workshop preference ( One or multiple )</b> </legend>
+    <br>
+    <input type="checkbox" id ="Skill development" name = "Skill development" checked>
+    <label for="Skill development">Skill development</label>
+    <br>
+    <input type="checkbox" id ="Problem-solving" name = "Problem-solving" >
+    <label for="Problem-solving">Problem-solving</label>
+    <br>
+    <input type="checkbox" id ="Personal development" name = "Personal development" >
+    <label for="Personal development">Personal development</label>
+    <br>
+    <input type="checkbox" id ="Networking and collaboration" name = "Networking and collaboration" >
+    <label for="Networking and collaboration">Networking and collaboration</label>
+    <br>
+
+</fieldset>
+<br>
+<br>
+<label for="Text area">Comments -: </label>
+<br>
+<br>
+
+<textarea name=" Writing araea" id="Text area" rows="5" cols="50" Placeholder = "Please write your comments here"></textarea>
+<br>
+<br>
+<footer><input type="submit" value="Submit"></footer>
+<!-- <footer><button type="submit" value="submit">Submit</button></footer> -->
+</form>
+
+
+
+
+
+
+</section>
+
+
+
+
+
+<body>
+
+
+
+
+    
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+
