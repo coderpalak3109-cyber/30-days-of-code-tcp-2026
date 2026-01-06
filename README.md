@@ -46,4 +46,10 @@ Date : 5th January 2026
 <img width="1911" height="952" alt="image" src="https://github.com/user-attachments/assets/cf492894-bc73-4aba-846c-4959cfdf55a3" />
 <img width="1876" height="948" alt="image" src="https://github.com/user-attachments/assets/43418692-9fb9-4a96-8df6-6a5ba78590bf" />
 <img width="1887" height="960" alt="image" src="https://github.com/user-attachments/assets/782dbd9a-bd30-42e8-afaa-788c14c559ca" />
-
+<br>
+# Day 6
+<br>
+Date : 6th January 2026 
+<br> 
+![Time Complexity](image.png)
+![Solution](image-1.png)
