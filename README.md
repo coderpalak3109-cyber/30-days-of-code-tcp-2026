@@ -51,5 +51,6 @@ Date : 5th January 2026
 <br>
 Date : 6th January 2026 
 <br> 
-![Time Complexity](image.png)
-![Solution](image-1.png)
+<img width="1907" height="965" alt="image" src="https://github.com/user-attachments/assets/89007607-4f09-4886-b6f4-7088a1a16726" />
+
+<img width="1906" height="903" alt="image" src="https://github.com/user-attachments/assets/1743c202-b99a-431e-a2eb-3fc064d78aeb" />
