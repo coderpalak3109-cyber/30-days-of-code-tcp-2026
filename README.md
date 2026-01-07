@@ -54,3 +54,10 @@ Date : 6th January 2026
 <img width="1907" height="965" alt="image" src="https://github.com/user-attachments/assets/89007607-4f09-4886-b6f4-7088a1a16726" />
 
 <img width="1906" height="903" alt="image" src="https://github.com/user-attachments/assets/1743c202-b99a-431e-a2eb-3fc064d78aeb" />
+<br>
+# Day 7
+<br>
+Date : 7th January 2026 
+<br> 
+<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/c75ff0c5-1b89-4498-964e-2358d88f744d" />
+<img width="1897" height="948" alt="image" src="https://github.com/user-attachments/assets/96a57951-906d-4903-a32d-c460239986d8" />
