@@ -68,3 +68,11 @@ Date : 8th January 2026
 <br> 
 
 <img width="1908" height="946" alt="image" src="https://github.com/user-attachments/assets/7bf48c90-a1f7-4192-be1a-cecdfc7dbfed" />
+
+
+# Day 9
+<br>
+Date : 9th January 2026 
+<br> 
+<img width="1916" height="956" alt="image" src="https://github.com/user-attachments/assets/7afa60d3-b05f-4997-8776-3471c77cc2a2" />
+<img width="1908" height="958" alt="image" src="https://github.com/user-attachments/assets/8dd63f8a-2353-4190-92f1-3b3c20ae13ea" />
