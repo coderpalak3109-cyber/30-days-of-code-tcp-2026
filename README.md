@@ -88,3 +88,12 @@ Date : 10th January 2026
 
 <img width="1906" height="962" alt="image" src="https://github.com/user-attachments/assets/2f65243d-d65e-458c-8039-014140d9e8da" />
 <img width="1911" height="962" alt="image" src="https://github.com/user-attachments/assets/9151d8fe-e46a-49fa-a341-2056a4c975a0" />
+
+
+
+# Day 11
+<br>
+Date : 11th January 2026 
+<br> 
+<img width="1918" height="818" alt="image" src="https://github.com/user-attachments/assets/5bfbfaf3-4eb1-44d1-b4b6-f6f1d8468ff0" />
+<img width="1915" height="958" alt="image" src="https://github.com/user-attachments/assets/1985f223-5b43-4a7f-a7f4-797323902730" />
