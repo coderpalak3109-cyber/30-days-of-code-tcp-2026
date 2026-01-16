@@ -133,3 +133,13 @@ Date : 15th January 2026
 
 <img width="1907" height="952" alt="image" src="https://github.com/user-attachments/assets/c7f7b63a-3eee-423a-bf66-d43f0d0a0d84" />
 <img width="1910" height="961" alt="image" src="https://github.com/user-attachments/assets/d87ce8e3-e080-4bf6-b58c-3997f7d3038c" />
+
+<br>
+# Day 16
+<br>
+Date : 16th January 2026 
+<br> 
+
+
+<img width="1912" height="938" alt="image" src="https://github.com/user-attachments/assets/42da85d1-f9c4-48fb-a02e-023f7249b338" />
+<img width="1916" height="957" alt="image" src="https://github.com/user-attachments/assets/88b3cae2-5eaa-4f3f-a4ad-94ba8c30bedb" 
