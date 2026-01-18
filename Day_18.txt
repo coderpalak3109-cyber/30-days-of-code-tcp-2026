@@ -1,0 +1,33 @@
+class Solution {
+public:
+    vector<vector<string>> solveNQueens(int n) {
+        vector<vector<string>> res;
+        vector<string> board(n, string(n, '.'));
+        vector<int> cols(n, 0), diag1(2 * n, 0), diag2(2 * n, 0);
+        backtrack(res, board, 0, n, cols, diag1, diag2);
+        return res;
+    }
+
+private:
+    void backtrack(vector<vector<string>>& res, vector<string>& board, int row, int n, 
+                   vector<int>& cols, vector<int>& diag1, vector<int>& diag2) {
+        if (row == n) {
+            res.push_back(board);
+            return;
+        }
+
+        for (int col = 0; col < n; col++) {
+            if (cols[col] || diag1[row + col] || diag2[row - col + n]) {
+                continue;
+            }
+
+            board[row][col] = 'Q';
+            cols[col] = diag1[row + col] = diag2[row - col + n] = 1;
+
+            backtrack(res, board, row + 1, n, cols, diag1, diag2);
+
+            board[row][col] = '.';
+            cols[col] = diag1[row + col] = diag2[row - col + n] = 0;
+        }
+    }
+};
