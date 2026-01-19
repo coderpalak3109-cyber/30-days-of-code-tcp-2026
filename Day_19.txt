@@ -1,0 +1,37 @@
+class Solution {
+public:
+    Node* reverse(Node* head) {
+        Node* prev = nullptr;
+        Node* curr = head;
+        Node* next = nullptr;
+        while (curr != nullptr) {
+            next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
+        }
+        return prev;
+    }
+
+    Node* addOne(Node* head) {
+        head = reverse(head);
+
+        Node* curr = head;
+        Node* prev = nullptr;
+        int carry = 1;
+
+        while (curr != nullptr && carry > 0) {
+            int sum = curr->data + carry;
+            curr->data = sum % 10;
+            carry = sum / 10;
+            prev = curr;
+            curr = curr->next;
+        }
+
+        if (carry > 0) {
+            prev->next = new Node(carry);
+        }
+
+        return reverse(head);
+    }
+};

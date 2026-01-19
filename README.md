@@ -161,3 +161,13 @@ Date : 18th January 2026
 
 
 <img width="1905" height="947" alt="image" src="https://github.com/user-attachments/assets/430799ed-ade6-4477-8f05-e359f454e5f1" />
+
+
+
+# Day 19
+<br>
+Date : 19th January 2026 
+<br>
+
+<img width="1905" height="962" alt="image" src="https://github.com/user-attachments/assets/450a0d8b-79ec-42da-8230-02682c27e752" />
+<img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/9a04035f-d138-4bdd-8d98-27b1d182c66c" />
