@@ -171,3 +171,13 @@ Date : 19th January 2026
 
 <img width="1905" height="962" alt="image" src="https://github.com/user-attachments/assets/450a0d8b-79ec-42da-8230-02682c27e752" />
 <img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/9a04035f-d138-4bdd-8d98-27b1d182c66c" />
+
+
+# Day 20
+<br>
+Date : 20th January 2026 
+<br>
+
+
+
+<img width="1863" height="947" alt="image" src="https://github.com/user-attachments/assets/e7b69d8a-5d9a-4199-9f07-a0e1ae97a3fa" /> 
