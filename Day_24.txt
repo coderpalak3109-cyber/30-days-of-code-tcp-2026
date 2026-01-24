@@ -1,0 +1,40 @@
+#include <iostream>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+
+    int N;
+    long long D;
+    cin >> N >> D;
+
+    vector<long long> P(N);
+    for (int i = 0; i < N; i++) {
+        cin >> P[i];
+    }
+
+    sort(P.rbegin(), P.rend());
+
+    int wins = 0;
+    int players_used = 0;
+
+    for (int i = 0; i < N; i++) {
+        long long current_power = P[i];
+        long long needed = (D / current_power) + 1;
+        
+        if (players_used + needed <= N) {
+            wins++;
+            players_used += needed;
+        } else {
+            break;
+        }
+    }
+
+    cout << wins << endl;
+
+    return 0;
+}
