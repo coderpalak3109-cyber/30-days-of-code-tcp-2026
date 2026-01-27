@@ -227,3 +227,12 @@ Date : 26th January 2026
 
 
 <img width="1902" height="956" alt="image" src="https://github.com/user-attachments/assets/d6425084-0e41-45a5-a6bc-a45060edf56d" />
+
+
+
+# Day 27
+<br>
+Date : 27th January 2026 
+<br>
+
+<img width="1910" height="932" alt="image" src="https://github.com/user-attachments/assets/2ed609ab-1a6c-4b8b-82d2-8afb56af1fb8" />

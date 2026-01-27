@@ -1,0 +1,36 @@
+#include <iostream>
+#include <vector>
+#include <numeric>
+#include <iomanip>
+
+using namespace std;
+
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+
+    int n, k;
+    if (!(cin >> n >> k)) return 0;
+
+    vector<long long> a(n);
+    for (int i = 0; i < n; i++) {
+        cin >> a[i];
+    }
+
+    long long current_week_sum = 0;
+    for (int i = 0; i < k; i++) {
+        current_week_sum += a[i];
+    }
+
+    long long total_sum_of_weeks = current_week_sum;
+
+    for (int i = 0; i < n - k; i++) {
+        current_week_sum = current_week_sum - a[i] + a[i + k];
+        total_sum_of_weeks += current_week_sum;
+    }
+
+    double num_weeks = n - k + 1;
+    cout << fixed << setprecision(10) << (double)total_sum_of_weeks / num_weeks << endl;
+
+    return 0;
+}
