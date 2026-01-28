@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int numberOfSubarrays(vector<int>& nums, int k) {
+        int n = nums.size();
+        vector<int> counts(n + 1, 0);
+        counts[0] = 1;
+        int result = 0;
+        int current_odds = 0;
+
+        for (int num : nums) {
+            if (num % 2 != 0) {
+                current_odds++;
+            }
+            if (current_odds >= k) {
+                result += counts[current_odds - k];
+            }
+            counts[current_odds]++;
+        }
+
+        return result;
+    }
+};
