@@ -252,3 +252,11 @@ Date : 29th January 2026
 <br>
 
 <img width="1912" height="942" alt="image" src="https://github.com/user-attachments/assets/c8b44194-ac3f-4911-aa6b-0442ec7399a9" />
+
+
+# Day 30
+<br>
+Date : 30th January 2026 
+<br>
+
+<img width="1898" height="953" alt="image" src="https://github.com/user-attachments/assets/965ab882-4a7d-4d36-94a6-f530287fe62e" />
